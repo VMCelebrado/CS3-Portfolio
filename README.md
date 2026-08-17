@@ -5,4 +5,4 @@ My Github Portfolio
 
 [CT Skills Sodium – Ellima-Celebrado-Trebujena](q1/ctskillsSodiumEllima-Celebrado-Trebujena.md)
 
-[View the Python Code](zodiacSodiumCelebrado.py)
+[View Assignment](zodiacSodiumCelebrado.py)
